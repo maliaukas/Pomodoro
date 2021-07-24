@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="restart">Restart</string>
+    <string name="delete">Delete</string>
+    <string name="indicator">Indicator</string>
+    <string name="start_pause">Start/Stop</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="add_pomodoro">Add Pomodoro!</string>
+    <string name="zero_time">00:00:00</string>
+    <string name="minutes">Minutes</string>
+    <string name="_25">25</string>
+    <string name="seconds">Seconds</string>
+    <string name="_1">1</string>
+</resources>
